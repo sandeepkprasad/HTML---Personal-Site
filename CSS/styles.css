@@ -1,0 +1,24 @@
+body {
+  background-color: #f9ed69;
+}
+
+hr {
+  background-color: #f9ed69;
+  border-color: #fc5185;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #393e46;
+}
+
+h3 {
+  color: #48466d;
+}
+
+.myself-image {
+  border-radius: 100%;
+}
